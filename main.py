@@ -123,4 +123,4 @@ async def clear_slash(interaction: discord.Interaction, amounts: int, channel: d
 async def say_error(Interaction: discord.Interaction, error):
     await Interaction.response.send_message("Tun'as pas la permission d'utiliser cette permission")
 
-bot.run("NzgyNTQ3ODAyODg5NzgxMjY5.GRCWIt.9jsljD_uBq8VFvn4FWGJZV2WDCBB-C4SZel-tY")
+bot.run(PREMIER DEGRES J'L'AVAIS LEAK COMME UN BOUFFON)
